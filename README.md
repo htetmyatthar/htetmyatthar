@@ -14,3 +14,5 @@ My name is Htet Myat Thar.
 - [Neovim](https://neovim.io) user, here's [my config](https://github.com/htetmyatthar/kickstart-nvim).
 
 - Fun fact, the profile is from anime called [The Way Of The Househusband](https://en.wikipedia.org/wiki/The_Way_of_the_Househusband). I love the character.
+
+![Gopher dancing](https://github.com/htetmyatthar/htetmyatthar/dancing-gopher.gif)
